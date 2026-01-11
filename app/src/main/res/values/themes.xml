@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SecondApp" parent="android:Theme.Material.Light.NoActionBar" />
+<!--    <item name="colorPrimary">@color/deepblue</item>-->
+<!--    <item name="colorPrimaryVariant">@color/deepblue</item>-->
+<!--    <item name="colorOnPrimary">@color/white</item>-->
+<!--    &lt;!&ndash; Secondary brand color. &ndash;&gt;-->
+<!--    <item name="colorSecondary">@color/deep blue</item>-->
+<!--    <item name="colorSecondaryVariant">@color/deep blue</item>-->
+<!--    <item name="colorOnSecondary">@color/black</item>-->
+<!--    &lt;!&ndash; Status bar color. &ndash;&gt;-->
+<!--    <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>-->
+<!--    &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+<!--</resources>-->
+<!--<resources xmlns:tools="http://schemas.android.com/tools">-->
+<!--    &lt;!&ndash; Base application theme. &ndash;&gt;-->
+<!--    <style name="Theme.MeditationUIYouTube" parent="android:Theme.MaterialComponents.DayNight.DarkActionBar">-->
+<!--        &lt;!&ndash; Primary brand color. &ndash;&gt;-->
+<!--        <item name="colorPrimary">@color/deepblue</item>-->
+<!--        <item name="colorPrimaryVariant">@color/deepblue</item>-->
+<!--        <item name="colorOnPrimary">@color/white</item>-->
+<!--        &lt;!&ndash; Secondary brand color. &ndash;&gt;-->
+<!--        <item name="colorSecondary">@color/deep blue</item>-->
+<!--        <item name="colorSecondaryVariant">@color/deep blue</item>-->
+<!--        <item name="colorOnSecondary">@color/black</item>-->
+<!--        &lt;!&ndash; Status bar color. &ndash;&gt;-->
+<!--        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>-->
+<!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+<!--    </style>-->
+
+<!--    <style name="Theme.MeditationUIYouTube.NoActionBar">-->
+<!--        <item name="windowActionBar">false</item>-->
+<!--        <item name="windowNoTitle">true</item>-->
+<!--    </style>-->
+
+<!--    <style name="Theme.MeditationUIYouTube.AppBarOverlay" parent="android:ThemeOverlay.AppCompat.Dark.ActionBar" />-->
+
+<!--    <style name="Theme.MeditationUIYouTube.PopupOverlay" parent="android:ThemeOverlay.AppCompat.Light" />-->
+</resources>
